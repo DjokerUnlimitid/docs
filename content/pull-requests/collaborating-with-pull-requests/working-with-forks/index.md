@@ -6,7 +6,9 @@ redirect_from:
   - /articles/working-with-forks
   - /github/collaborating-with-pull-requests/working-with-forks
 versions:
-  fpt: '*'
+  fpt: '*'help install
+fpt upgrade
+
   ghes: '*'
   ghae: '*'
   ghec: '*'
